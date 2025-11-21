@@ -18,20 +18,6 @@ I am passionate about solving problems with code and turning raw data into meani
 
 ---
 
-## 📂 Featured Projects
-
-### 🌦️ [CLI Weather App](https://github.com/AbhiStark780/Weather-App)
-*A robust, production-ready Command Line Interface tool for fetching real-time weather data.*
-
-* **Tech:** Python, OpenWeatherMap API, Git, PyInstaller
-* **Features:**
-    * Fetches live weather data (Temp, Humidity, Wind) for any city.
-    * Implements robust error handling and input validation.
-    * Deployed as a standalone `.exe` file for Windows.
-    * **Coming Soon:** 5-Day Forecast integration.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
