@@ -1,52 +1,27 @@
-# Hi there, I'm Abhishek! 👋
+# Hi 👋, I'm Abhishek Tipiria
 
-### 🚀 Aspiring Data Analyst | MCA Student at IGIT, Sarang
+### A budding Python developer
 
-I am passionate about solving problems with code and turning raw data into meaningful insights. Currently focused on mastering **Python** and **Data Science** technologies to build scalable, real-world applications.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhiStark780&label=Profile views&color=0e75b6&style=flat" alt="AbhiStark780" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbhiStark780" alt="AbhiStark780" /></a> </p>
 
-## 🛠️ Tech Stack
+- 🌱 I'm currently learning **Power Bi and SQL**
 
-**Languages & Tools:**
+- 🤝 I'm looking for help with **Learning how project management works.**
+
+- ⚡ Fun fact **Talk about F1 with me.**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<a href="https://github.com/AbhiStark780" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AbhiStark780" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-tipiria-10b50028a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-tipiria-10b50028a" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-## 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhiStark780&show_icons=true&locale=en&layout=compact" alt="AbhiStark780" /></p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbhiStark780&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="AbhiStark780's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiStark780&theme=dark&hide_border=true&layout=compact" alt="Top Langs" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhiStark780&show_icons=true&locale=en" alt="AbhiStark780" /></p>
 
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=AbhiStark780&theme=dark&hide_border=true" alt="Streak" />
-</p>
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhiStark780&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
----
-
-## 🌐 Let's Connect
-
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-tipiria-10b50028a">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com/abhistark780">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
-</a>
-</p>
-
-<p align="right">
- <img src="https://visitcount.itsvg.in/api?id=AbhiStark780&icon=0&color=0" alt="Visitor Count" />
-</p>
